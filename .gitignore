@@ -1,0 +1,5 @@
+#datasets
+/datasets
+
+#checkpoints
+.ipynb_checkpoints/*
